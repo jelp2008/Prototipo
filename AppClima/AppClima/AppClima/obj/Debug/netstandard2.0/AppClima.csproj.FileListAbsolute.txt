@@ -1,0 +1,15 @@
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\bin\Debug\netstandard2.0\AppClima.deps.json
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\bin\Debug\netstandard2.0\AppClima.dll
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.csproj.CoreCompileInputs.cache
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.AssemblyInfoInputs.cache
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.AssemblyInfo.cs
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.csproj.App.config
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\Paginas\PaginaClima.xaml.g.cs
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\bin\Debug\netstandard2.0\AppClima.dll.config
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\bin\Debug\netstandard2.0\AppClima.pdb
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.dll
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.pdb
+C:\Users\eliu\source\repos\AppClima\AppClima\AppClima\obj\Debug\netstandard2.0\AppClima.csprojAssemblyReference.cache

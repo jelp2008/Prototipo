@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppClima"
+             x:Class="AppClima.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <!-- Place new controls here -->
+        <Label x:Name="lblText" 
+            Text="Welcome to Xamarin.Forms Eliu!" 
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand" />
+
+        <Entry x:Name="entryText"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                WidthRequest="100"/>
+
+        <Button x:Name="btnText"
+                Text="Click aqui"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+
+        <Button x:Name="btnOtraPag"
+                Text="Ir a otra pagina"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+
+    </StackLayout>
+
+</ContentPage>
